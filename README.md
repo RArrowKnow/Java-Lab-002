@@ -40,7 +40,7 @@ String scriptTemplateLine3
 String scriptTemplateLine4
 String priceless
 ```
-You can assign Strings of words and numbers as long as they are encased by " ". Such as "2 autographed baseballs" 
+You can assign Strings of words and numbers as long as they are encased by " ". Such as "2 autographed baseballs", and "Hello world!". 
 You cannot store integers such as 49 by themselves, however.
 
 The following is data type int.
